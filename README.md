@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team Task Manager
 
 Full stack Team Task Manager built with React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB Atlas, JWT authentication, and role-based access.
@@ -78,3 +79,6 @@ Full stack Team Task Manager built with React, Vite, Tailwind CSS, Node.js, Expr
 - The backend uses `express-validator` for request validation.
 - The frontend stores JWT tokens in `localStorage` and sends them in the Authorization header.
 - The application supports admin-only project/task creation and member task status updates.
+=======
+# team-task-manager
+>>>>>>> f6818334bb276bb5353553e81a250c4bfd5d8945
